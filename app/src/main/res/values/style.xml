@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text_field_title_reg_14">
+        <item name="android:fontFamily">@font/avgardm_2</item>
+        <item name="android:textSize">@dimen/font_14</item>
+    </style>
+
+    <style name="text_field_title_reg_16">
+        <item name="android:fontFamily">@font/avgardm_2</item>
+        <item name="android:textSize">@dimen/font_16</item>
+    </style>
+
+    <style name="text_field_title_reg_18">
+        <item name="android:fontFamily">@font/avgardm_2</item>
+        <item name="android:textSize">@dimen/font_18</item>
+    </style>
+
+    <style name="text_field_title_reg_21">
+        <item name="android:fontFamily">@font/avgardm_2</item>
+        <item name="android:textSize">@dimen/font_21</item>
+    </style>
+
+    <style name="bottomLoginSecond">
+        <item name="android:textSize">@dimen/font_16</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/avgardm_2</item>
+    </style>
+
+    <style name="styleEditText" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/toolbarTextColor</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">@dimen/margin_8</item>
+        <item name="android:paddingBottom">@dimen/margin_10</item>
+        <item name="android:textSize">@dimen/font_16</item>
+        <item name="android:fontFamily">@font/avgardm_2</item>
+    </style>
+
+    <style name="styleEditTextPass" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/toolbarTextColor</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">@dimen/margin_3</item>
+        <item name="android:paddingBottom">@dimen/margin_7</item>
+        <item name="android:textSize">@dimen/font_16</item>
+        <item name="android:fontFamily">@font/avgardm_2</item>
+    </style>
+
+    <style name="text_field_title_semi">
+        <item name="android:fontFamily">@font/avgardm_2</item>
+    </style>
+
+</resources>
